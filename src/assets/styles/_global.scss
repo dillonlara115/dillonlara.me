@@ -39,7 +39,9 @@ h2 {
 h3 {
   font-size: 2rem;
 }
-
+.sub-content {
+  z-index: 99;
+}
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;

@@ -50,9 +50,7 @@
     right: 0;
   }
 }
-.sub-content {
-  z-index: 99;
-}
+
 .social-icons a {
   cursor: pointer;
   display: inline-block;

@@ -44,7 +44,4 @@
     right: 0;
   }
 }
-.sub-content {
-  z-index: 99;
-}
 </style>
