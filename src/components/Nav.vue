@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="d-block d-lg-none">Dillon Lara</span>
+      <span class="d-block d-lg-none">Dillon Lara - Web Developer</span>
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Dillon"
