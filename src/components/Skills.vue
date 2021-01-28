@@ -1,6 +1,6 @@
 <template>
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
-    <div class="w-100">
+    <div class="container">
       <h2 class="mb-5">Skills</h2>
 
       <div class="subheading mb-3">Programming Languages &amp; Tools</div>

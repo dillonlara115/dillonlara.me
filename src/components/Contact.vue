@@ -1,6 +1,6 @@
 <template>
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="contact">
-    <div class="w-100">
+    <div class="container">
       <h2 class="mb-5">Get In Touch</h2>
       <p>Let me know what you need help with!  I'm pumped to be apart of your project.</p>
      <div class="social-icons">

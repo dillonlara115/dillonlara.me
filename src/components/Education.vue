@@ -1,6 +1,6 @@
 <template>
   <section class="resume-section education-section p-3 p-lg-5 d-flex align-items-center" id="education">
-    <div class="w-100 sub-content">
+    <div class="container sub-content">
       <h2 class="mb-5">Education</h2>
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">

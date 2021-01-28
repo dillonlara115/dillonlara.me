@@ -1,6 +1,6 @@
 <template>
   <section class="resume-section experience-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
-    <div class="w-100 sub-content">
+    <div class="container sub-content">
       <h2 class="mb-5">Experience</h2>
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">

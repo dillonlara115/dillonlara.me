@@ -1,6 +1,6 @@
 <template>
   <section class="resume-section  p-3 p-lg-5 d-flex align-items-center" id="interests">
-    <div class="w-100 sub-content">
+    <div class="container sub-content">
       <h2 class="mb-5">Interests</h2>
       <p>When I'm not busy helping clients grow their businesses I will likely be found outdoors.  I'm an avid Mountain Biker and spend as much time as I can in the saddle.  Also, as weather permits I will spend most weekends camping with my wife and two daughters in the Colorado Wilderness.</p>
       <p

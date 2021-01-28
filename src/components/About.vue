@@ -1,6 +1,6 @@
 <template>
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-    <div class="w-100 sub-content">
+    <div class="container sub-content">
       <h1 class="mb-0">
         Dillon
         <span class="text-secondary">Lara</span>
