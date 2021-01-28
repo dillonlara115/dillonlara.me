@@ -13,7 +13,7 @@
       </div>
       <p
         class="lead mb-5"
-      >      I'm a <strong>Web Developer</strong> currently working as a freelance developer specializing in <a href="#test">UX design best practices</a> for ecommerce sites and a technical SEO developer helping clients improve their search engine rankings.  Previously I was a Web Development Manager for a Creative Agency.  When I'm not helping clients grow their online presence, I can be found building out my own apps or mountain biking with my family.</p>
+      >      I'm a <strong>Web Developer</strong> currently working as a freelance developer specializing in <strong>UX design best practices</strong> for ecommerce sites and a <strong>technical SEO developer</strong> helping clients improve their search engine rankings.  Previously I was a Web Development Manager for a Creative Agency.  When I'm not <strong>helping clients grow their online presence</strong>, I can be found building out my own apps or mountain biking with my family.</p>
       <p class="lead mb-5">
         Get in touch with me here:
         <a
@@ -27,9 +27,6 @@
         </a>
         <a href="https://www.instagram.com/dillonlara115/" target="_blank" rel="noopener noreferrer" aria-label="Instagram Profile">
           <font-awesome :icon="['fab', 'instagram']"/>
-        </a>
-        <a href="https://loke.dev" target="_blank" rel="noopener noreferrer" aria-label="Loke.dev">
-          <font-awesome :icon="['fas', 'rss']"/>
         </a>
       </div>
     </div>

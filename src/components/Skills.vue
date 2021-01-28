@@ -15,10 +15,10 @@
           <font-awesome :icon="['fab', 'js-square']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'angular']"/>
+          <font-awesome :icon="['fab', 'vuejs']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'react']"/>
+          <font-awesome :icon="['fab', 'shopify']"/>
         </li>
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'node-js']"/>
@@ -27,32 +27,32 @@
           <font-awesome :icon="['fab', 'sass']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'less']"/>
-        </li>
-        <li class="list-inline-item">
           <font-awesome :icon="['fab', 'wordpress']"/>
         </li>
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'gulp']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'grunt']"/>
+          <font-awesome :icon="['fab', 'npm']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'npm']"/>
+          <font-awesome :icon="['fab', 'bootstrap']"/>
+        </li>
+        <li class="list-inline-item">
+          <font-awesome :icon="['fab', 'git']"/>
         </li>
       </ul>
 
       <div class="subheading mb-3">Workflow</div>
       <ul class="fa-ul mb-0">
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Mobile-First, Responsive Design
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Mobile-First Design
         </li>
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Cross Browser Testing &amp; Debugging
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Ecommerce Consulting
         </li>
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Cross Functional Teams
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Project Management
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Agile Development &amp; Scrum

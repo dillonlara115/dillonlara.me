@@ -11,18 +11,23 @@ import {
 import {
   faTrophy,
   faRss,
+  faEnvelope,
   faCheck
 } from '@fortawesome/free-solid-svg-icons'
 import {
   faGithub,
   faTwitter,
   faFacebook,
+  faVuejs,
+  faGit,
   faLinkedin,
   faInstagram,
+  faBootstrap,
   faHtml5,
   faJsSquare,
   faCss3Alt,
   faAngular,
+  faShopify,
   faReact,
   faNodeJs,
   faSass,
@@ -37,14 +42,19 @@ import {
 } from '@fortawesome/vue-fontawesome'
 
 library.add(
+  faEnvelope,
   faGithub,
   faTwitter,
   faFacebook,
+  faGit,
+  faVuejs,
+  faBootstrap,
   faInstagram,
   faLinkedin,
   faTrophy,
   faHtml5,
   faCss3Alt,
+  faShopify,
   faJsSquare,
   faAngular,
   faReact,
