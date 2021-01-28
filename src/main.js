@@ -3,7 +3,12 @@ import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import BootstrapVue from 'bootstrap-vue'
 import './assets/styles/main.scss'
+import Vue from "vue";
+import VueGtag from "vue-gtag";
 
+Vue.use(VueGtag, {
+  config: { id: "G-QZYXL3MXMN" }
+});
 import {
   library
 } from '@fortawesome/fontawesome-svg-core'
