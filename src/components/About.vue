@@ -2,8 +2,7 @@
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
     <div class="container sub-content">
       <h1 class="mb-0">
-        Dillon
-        <span class="text-secondary">Lara</span>
+        Dillon Lara
       </h1>
       <div class="subheading mb-5">
         Colorado Springs, CO 80920 · (573) 256-9991 ·
