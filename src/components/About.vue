@@ -14,7 +14,7 @@
       <p
         class="lead mb-5"
       >      I'm a <strong>Web Developer</strong> currently working as a freelance developer specializing in <strong>UX design best practices</strong> for ecommerce sites and a <strong>technical SEO developer</strong> helping clients improve their search engine rankings.  Previously I was a Web Development Manager for a Creative Agency.  When I'm not <strong>helping clients grow their online presence</strong>, I can be found building out my own apps or mountain biking with my family.</p>
-      <p class="lead mb-5">
+      <p class="lead mb-2">
         Get in touch with me here:
         <a
       </p>

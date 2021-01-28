@@ -1,6 +1,6 @@
 <template>
-  <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
-    <div class="w-100">
+  <section class="resume-section experience-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+    <div class="w-100 sub-content">
       <h2 class="mb-5">Experience</h2>
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -51,3 +51,24 @@
     </div>
   </section>
 </template>
+
+
+<style lang="scss" scoped>
+.experience-section {
+  background: url("../assets/images/experience.jpg") center / cover no-repeat;
+  position: relative;
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, .8);
+    left: 0;
+    right: 0;
+  }
+}
+.sub-content {
+  z-index: 99;
+}
+</style>
