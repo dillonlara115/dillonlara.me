@@ -1,11 +1,11 @@
 module.exports = {
-  siteName: 'Gridsome starter resume',
-  siteDescription: 'A starter project for Gridsome with Bootstrap for you to quickly build a resume.',
-  siteUrl: 'https://gridsome-starter-resume.loke.dev',
+  siteName: 'Dillon Lara',
+  siteDescription: 'Colorado Springs Web Developer and ecommerce Consultant',
+  siteUrl: 'https://dillonlara.me',
   plugins: [{
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-72659574-11'
+        id: 'G-QZYXL3MXMN'
       }
     },
     {
