@@ -1,9 +1,9 @@
 <template>
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-    <div class="w-100">
+    <div class="w-100 sub-content">
       <h1 class="mb-0">
         Dillon
-        <span class="text-primary">Lara</span>
+        <span class="text-secondary">Lara</span>
       </h1>
       <div class="subheading mb-5">
         Colorado Springs, CO 80920 · (573) 256-9991 ·
@@ -34,6 +34,25 @@
 </template>
 
 <style lang="scss" scoped>
+
+
+.resume-section {
+  background: url("../assets/images/about.jpg") center / cover no-repeat;
+  position: relative;
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, .9);
+    left: 0;
+    right: 0;
+  }
+}
+.sub-content {
+  z-index: 99;
+}
 .social-icons a {
   cursor: pointer;
   display: inline-block;

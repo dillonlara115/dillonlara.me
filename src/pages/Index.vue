@@ -61,7 +61,6 @@ export default {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
 }
 
 section.resume-section .resume-item .resume-date {

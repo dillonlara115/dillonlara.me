@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
       <span class="d-block d-lg-none">Dillon Lara</span>
       <span class="d-none d-lg-block">
@@ -42,6 +42,10 @@
   cursor: pointer;
 }
 
+  .navbar {
+    background: #bc4123;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -53,6 +57,14 @@
 }
 
 @media (min-width: 992px) {
+  .navbar {
+    background: #bc4123;
+  background: -webkit-linear-gradient(360deg, #bc4123 0%, #463940 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#bc4123), to(#463940));
+  background: -webkit-linear-gradient(top, #bc4123 0%, #463940 100%);
+  background: -o-linear-gradient(top, #bc4123 0%, #463940 100%);
+  background: linear-gradient(360deg, #bc4123 0%, #463940 100%);
+}
   #sideNav {
     text-align: center;
     position: fixed;
