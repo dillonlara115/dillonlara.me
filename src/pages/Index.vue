@@ -7,6 +7,8 @@
       <hr class="m-0">
       <Education/>
       <hr class="m-0">
+      <Work/>
+      <hr class="m-0">
       <Skills/>
       <hr class="m-0">
       <Interests/>
@@ -23,6 +25,7 @@ import Education from "../components/Education";
 import Skills from "../components/Skills";
 import Interests from "../components/Interests";
 import Contact from "../components/Contact";
+import Work from "../components/Work";
 
 export default {
   components: {
@@ -31,7 +34,8 @@ export default {
     Education,
     Skills,
     Interests,
-    Contact
+    Contact,
+    Work
   },
   metaInfo: {
     title: "Dillon Lara - Colorado Springs Web Developer and ecommerce Consultant",
