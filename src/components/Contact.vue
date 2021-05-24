@@ -2,7 +2,7 @@
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="contact">
     <div class="container">
       <h2 class="mb-5">Get In Touch</h2>
-      <p>Let's get the ball rolling.  Review my <a href="../assets/docs/getting-started-guide.pdf" target="_blank" download >getting started guide and intro questionaire</a>.</p>
+      <p>Let's get the ball rolling.  Review my <g-link to="../assets/docs/getting-started-guide.pdf">getting started guide and intro questionaire</g-link>.</p>
      <div class="social-icons">
        <a href="mailto:dillonlara115@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
           <font-awesome :icon="['fas', 'envelope']"/>
